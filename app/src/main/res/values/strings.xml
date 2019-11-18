@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AwarenessDemo</string>
+
+    <string name="snapshot_title">Snapshot</string>
+    <string name="snapshot_subtitle">Click for check</string>
+
+    <string name="headphones_state">Headphones are %s</string>
+    <string name="headphones_state_connect">connected</string>
+    <string name="headphones_state_disconnected">disconnected</string>
+
+    <string name="user_location">Latitude : %f\nLongitude : %f\nAltitude : %f\nAccuracy : %f</string>
+
+    <string name="user_activity">Activity: %s\nConfidence:%d/100</string>
+
+    <string name="fence_title">Fence</string>
+    <string name="fence_subtitle">Tracking: %s</string>
+
+    <string name="start_tracking">Start tracking</string>
+    <string name="stop_tracking">Stop tracking</string>
+
+    <string name="fence_headphones_connect">Headphones connect</string>
+    <string name="fence_headphones_disconnect">Headphones disconnect</string>
+    <string name="fence_user_idle">User nothing doing</string>
+    <string name="fence_user_walking">User walking</string>
+    <string name="fence_user_start_walking">User start walking</string>
+    <string name="fence_user_stop_walking">User stop walking</string>
+    <string name="fence_user_in_car">In car</string>
+    <string name="fence_user_start_ride_on_car">User start ride on car</string>
+    <string name="fence_user_stop_ride_on_car">User stop ride on car</string>
+    <string name="fence_start_">Headphone disconnect</string>
+
+    <string name="permission_denied">Please, allow permissions for correct app works</string>
+</resources>
